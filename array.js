@@ -41,3 +41,13 @@
 // console.log(index); // Here no element satisfies the condition so they return '-1'.
 
 //================================================================================
+
+// #1
+// let arr = [1, 2, 3, 4, 5];
+// let rev = arr.reverse();
+// console.log(rev)
+
+// #2
+// const str = 'shaheer';
+// const revStr = str.split('').reverse().join('');
+// console.log(revStr)
