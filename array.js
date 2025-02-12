@@ -51,3 +51,17 @@
 // const str = 'shaheer';
 // const revStr = str.split('').reverse().join('');
 // console.log(revStr)
+
+//================================================================================
+
+// array.slice(start, end);
+// It not consider the end index.
+
+
+// #1
+// const nums = [1,2,3,4,5,6,8,9];
+// console.log(nums.slice(2,5))
+// console.log(nums.slice(2));
+// console.log(nums.slice(-3,-1));
+
+
