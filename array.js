@@ -64,4 +64,13 @@
 // console.log(nums.slice(2));
 // console.log(nums.slice(-3,-1));
 
+//================================================================================
 
+
+// array.splice()
+// array.splice(start, deleteCount, item1, item2, ...);
+
+// #1
+// const arr = [1,2,3,4,5,6,7,8];
+// console.log(arr.splice(2,1));
+// console.log(arr)
