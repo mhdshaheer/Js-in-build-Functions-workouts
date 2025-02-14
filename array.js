@@ -74,3 +74,15 @@
 // const arr = [1,2,3,4,5,6,7,8];
 // console.log(arr.splice(2,1));
 // console.log(arr)
+
+
+//================================================================================
+
+// every() – Checks if all elements meet a condition
+// array.every((element, index, array), thisArg);
+
+// #1
+// const numbers = [2, 4, 6, 8, 10];
+// const allPositive = numbers.every(num => num > 0);
+// console.log(allPositive);
+
