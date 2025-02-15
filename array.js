@@ -86,3 +86,13 @@
 // const allPositive = numbers.every(num => num > 0);
 // console.log(allPositive);
 
+
+//================================================================================
+
+// find() – Returns the first element that meets a condition.
+// array.find((element, index, array), thisArg)
+
+// #1
+// const numbers = [10, 20, 30, 40, 50];
+// const result = numbers.find(num => num > 25);
+// console.log(result);
