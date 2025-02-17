@@ -14,3 +14,12 @@
 // toLowerCase() – Converts a string to lowercase.
 // padStart() – Pads a string at the beginning to reach a given length.
 // padEnd() – Pads a string at the end to reach a given length.
+
+
+//=================================================================
+// charAt() – Returns the character at a given index.
+
+// #1
+// let name = "Shaheer";
+// console.log(name.charAt(5))
+
