@@ -23,3 +23,18 @@
 // let name = "Shaheer";
 // console.log(name.charAt(5))
 
+
+
+//=================================================================
+// charCodeAt() – Returns the ASCII code of a character.
+// string.charCodeAt(index)
+
+// #2
+// let text = "Hello";
+// console.log(text.charCodeAt(0)); // 72 ('H')
+// console.log(text.charCodeAt(1)); // 101 ('e')
+
+
+
+
+
