@@ -34,6 +34,10 @@
 // console.log(text.charCodeAt(0)); // 72 ('H')
 // console.log(text.charCodeAt(1)); // 101 ('e')
 
+// #3
+// let text = "Hello";
+// console.log(text.lastIndexOf('l')) // 3
+
 
 
 
